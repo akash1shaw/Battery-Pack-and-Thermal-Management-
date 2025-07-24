@@ -48,5 +48,5 @@ This project is for academic and demonstration purposes only.
 
 ## 📬 Contact
 
-For queries or collaboration, please reach out via [akashshaw@example.com](mailto:akashshaw@example.com) or [LinkedIn](https://www.linkedin.com/).
+For queries or collaboration, please reach out via [akashshaw@example.com](mailto:akashkrshaw15@gmail.com) or [LinkedIn](https://www.linkedin.com/).
 
